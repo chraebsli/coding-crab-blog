@@ -198,3 +198,9 @@ Getting our science styling on with H<sub>2</sub>O, which should push the “2�
 ## Superscript
 
 Still sticking with science and Albert Einstein’s E = MC<sup>2</sup>, which should lift the 2 up.
+
+## Embeds
+
+### Github Gists
+
+<script src="https://gist.github.com/chraebsli/4a22728d8b0129369e7fd937ee564e15.js"></script>
