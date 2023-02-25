@@ -14,19 +14,19 @@
 
 ### Frontmatter
 
-- [ ] Has a title
-- [ ] Has a description
-- [ ] (opt) Has a permalink
-- [ ] Has tags
-- [ ] Has categories
-- [ ] Has a creation date
-- [ ] (opt) Has a modified date
-- [ ] Has a filename with date
+- [ ] Has a `title`
+- [ ] Has a `description`
+- [ ] (opt) Has a `permalink`
+- [ ] Has `tags`
+- [ ] Has `categories`
+- [ ] Has a creation `date` in the form of `YYYY-MM-DD HH:MM +0100`
+- [ ] (opt) Has a modified date (`last_modified_at`) in the form of `YYYY-MM-DD HH:MM +0100`
+- [ ] Has a filename with date in the form of `YYYY-MM-DD-title-of-article.md`
 
 ### Metadata
 
-- [ ] In sitemap.xml
-- [ ] In feed.xml
+- [ ] In `sitemap.xml`
+- [ ] In `feed.xml`
 
 ### Discussions
 
@@ -43,16 +43,16 @@
 
 ### Frontmatter
 
-- [ ] Has a title
-- [ ] Has a description
-- [ ] Has a permalink
-- [ ] Has a layout
+- [ ] Has a `title`
+- [ ] Has a `description`
+- [ ] Has a `permalink`
+- [ ] Has a `layout`
 - [ ] Has `author_profile`
 
 ### Metadata
 
-- [ ] In sitemap.xml
-- [ ] In feed.xml
+- [ ] In `sitemap.xml`
+- [ ] In `feed.xml`
 
 ### Discussions
 
