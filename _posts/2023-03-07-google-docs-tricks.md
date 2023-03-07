@@ -80,4 +80,32 @@ To edit your document offline, you can navigate to _File_ > _Make available offl
 **Note:** This works with Google Docs, Sheets and Slides
 {: .notice--info}
 
-## Chat with collaborators
+## Communicate with collaborators
+
+When you are working on a document with other people, you eventually have to communicate with them. Until now you probably used discord or whatsapp or just wrote in the document. But there is a better way to communicate with your collaborators. You can chat with them in a sidebar and also create a google meet call and comment specific parts of the document and make suggestions.
+
+**Note:** This works with Google Docs, Sheets and Slides
+{: .notice--info}
+
+### Chat
+
+When you have shared a document with other people, you can click the chat icon in the top right navigation bar. This will open a sidebar where you can chat with your collaborators and also see the comments and suggestions.
+
+### Commenting
+
+Comments are a great way to communicate with your collaborators. This way you can discuss the document and mention people and reply to them without making the document messy or change between different windows when using an external chat.
+
+When you want to comment on a specific part of the document, you have 3 options after you selected the text:
+
+1. press `Ctrl` + `Alt` + `M`
+2. Click the comment icon on the right side of the document
+3. Right click and select _Comment_
+
+### Suggesting edits
+
+Sometimes want to change parts of the document. But its not always the best solution to just change it. You can suggest edits to the document. This will create a comment with the suggested changes. These changes then can be accepted or rejected. This way, you can discuss the changes with your collaborators and make sure that the changes are correct.
+
+To suggest edits, you have 2 options:
+
+1. Change to the _Suggesting_ mode by selecting it in the top right corner of the window
+2. Select the text and click the _Suggest_ icon on the right side of the document
