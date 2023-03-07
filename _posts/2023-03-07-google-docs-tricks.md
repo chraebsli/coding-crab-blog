@@ -44,11 +44,17 @@ You can mention people in your document. This can be either a person from your c
 
 To mention someone, you can either type `@` and then start typing the name of the person or you can navigate to _Insert_ > _Smart Chips_ > _People_.
 
+**Note:** This also works with Google Sheets
+{: .notice--info}
+
 ### Link documents
 
 You can link other documents from google drive. If you hover over the link, you get a preview of the document and you can also open it in a new tab.
 
 To link a document, you can either type `@` and then start typing the name of the document or you can navigate to _Insert_ > _Smart Chips_ > _File_.
+
+**Note:** This also works with Google Sheets
+{: .notice--info}
 
 ### Insert dates
 
@@ -62,8 +68,16 @@ If you have an event in your calendar, you can insert it in your document. You a
 
 To insert a calendar event, you can either type `@` and then start typing the name of the event or you can navigate to _Insert_ > _Smart Chips_ > _Calendar event_.
 
-## Add a table of contents
+**Note:** This also works with Google Sheets
+{: .notice--info}
 
 ## Offline editing
+
+The most of the time, you have an internet connection and then its not a problem to edit your documents. But if you are in a situation where you don't have an internet connection, it is still possible to edit your documents. And when you are back online, the changes will be synced.
+
+To edit your document offline, you can navigate to _File_ > _Make available offline_. You get a notification, that you have to install the Google Docs offline extension. After you have installed it, you can edit your document offline.
+
+**Note:** This works with Google Docs, Sheets and Slides
+{: .notice--info}
 
 ## Chat with collaborators
