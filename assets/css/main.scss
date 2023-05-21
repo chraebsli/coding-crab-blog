@@ -52,6 +52,11 @@ tr:nth-child(even) {
         max-height: 70vh;
         overflow-y: scroll;
     }
+
+    // Fix ToC hover color of active item
+    &__menu .active a:hover {
+        color: #3d4144;
+    }
 }
 
 // move the toc to the right
