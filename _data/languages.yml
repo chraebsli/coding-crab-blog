@@ -1,6 +1,10 @@
 en:
-  label: English
+  label: 
+    en: English
+    de: Englisch
   icon: /assets/images/lang/en.webp
 de:
-  label: Deutsch
+  label: 
+    de: Deutsch
+    en: German
   icon: /assets/images/lang/de.webp
