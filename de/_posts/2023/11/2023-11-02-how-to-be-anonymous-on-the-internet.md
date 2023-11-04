@@ -45,7 +45,7 @@ Ein sicherer Browser schützt deine Privatsphäre, indem er Tracker und Werbung 
 
 Mit einem sicheren Messenger kannst du Nachrichten verschlüsselt, versenden und empfangen. Dazu gehört eine anständige Ende-zu-Ende Verschlüsslung. Meine Empfehlung: [Matrix](https://matrix.org).
 
-Mit Matrix und Element kannst du verschlüsselte Nachrichten, Sprach- und Videoanrufe tätigen. Matrix ist ein offenes Protokoll, welches von vielen verschiedenen Anbietern unterstützt wird. Element ist ein Open Source Client für Matrix. Es ist vergleichbar mit Discord, das es ähnlich funktioniert. Zudem ist es auch möglich, deinen eigenen Server zu hosten.
+Mit Matrix und [Element](https://element.io/) kannst du verschlüsselte Nachrichten, Sprach- und Videoanrufe tätigen. Matrix ist ein offenes Protokoll, welches von vielen verschiedenen Anbietern unterstützt wird. Element ist ein Open Source Client für Matrix. Es ist vergleichbar mit Discord, das es ähnlich funktioniert. Zudem ist es auch möglich, deinen eigenen Server zu hosten.
 
 Texte können beliebig mit den meisten Markdown Elementen formatiert werden. Ebenfalls kannst du neben Anrufen auch Sprachnachrichten versenden, Fotos und Videos teilen, Umfragen erstellen, Dateien versenden und vieles mehr.
 
@@ -60,11 +60,11 @@ Viele Menschen teilen öfter sensitive Informationen im Internet/ Social Media, 
 | Hass, Rassismus, ...                    | Jemand könnte dich anzeigen/ verklagen    |
 | ...                                     | ...                                       |
 
-Und denk immer daran, dass alles, was du im Internet teils für jeden sichtbar sind. Dazu gehören unter anderem auch Familie, Freunde, Arbeitskollegen, ... Teile deshalb nie persönlichen Informationen und Meinungen öffentlich im Internet und auf den Social Media Plattformen.
+Und denk immer daran, dass alles, was du im Internet teils für jeden sichtbar sind. Dazu gehören unter anderem auch Familie, Freunde, Arbeitskollegen, ... Teile deshalb nie persönlichen Informationen und Meinungen öffentlich im Internet und auf den Social Media Plattformen wenn du nicht willst, dass sie jeder sieht.
 
 ## Schritt 7: Nutze dezentralisiertes Social Media
 
-Herkömmliche Social Media Plattformen wie Facebook, Twitter, Instagram, ... sind zentralisiert. Das bedeutet, dass sie von einem Unternehmen kontrolliert werden. Dieses Unternehmen kann entscheiden, was du sehen kannst und was nicht. Zudem können sie deine Daten sammeln und verkaufen. Dezentralisiertes Social Media ist anders. Es wird von niemandem kontrolliert und jeder kann es nutzen. Lerne mehr über dezentralisiertes Social Media [hier](https://fedi.tips/).
+Herkömmliche Social Media Plattformen wie Facebook, Twitter, Instagram, ... sind zentralisiert. Das bedeutet, dass sie von einem Unternehmen kontrolliert werden. Dieses Unternehmen kann entscheiden, was du sehen kannst und was nicht. Zudem können sie deine Daten sammeln und verkaufen. Dezentralisiertes Social Media ist anders. Es wird von niemandem kontrolliert und jeder kann es nutzen. Lerne mehr über dezentralisiertes Social Media [hier](https://fedi.tips/) oder auf meinem [Blog](/tags/#fediverse).
 
 ## Schritt 8: Nutze eine anonyme Suchmaschine
 
@@ -74,7 +74,7 @@ Die meisten Suchmaschinen sammeln Daten über dich und verkaufen diese oder nutz
 
 ## Schritt 9: Nutze datenschutzfreundliche Alternativen
 
-Viele bestehende Dienste sind nicht datenschutzfreundlich. Um deine Privatsphäre zu schützen, solltest du datenschutzfreundliche Alternativen verwenden. Eine Liste mit datenschutzfreundlichen Alternativen findest du [hier](https://privacytools.io/).
+Viele bestehende Dienste sind nicht datenschutzfreundlich. Um deine Privatsphäre zu schützen, solltest du datenschutzfreundliche Alternativen verwenden. Eine Liste mit datenschutzfreundlichen Alternativen findest du [in diesem Beitrag](/de/privacy-friendly-alternatives).
 
 ## Schritt 10: Nutze ein sicheres Betriebssystem
 
@@ -82,4 +82,4 @@ Es gibt viele Betriebssysteme, jedoch sind die bekanntesten nicht sicher. Micros
 
 Um dich vor Malware und vor dem Sammeln deiner Daten zu schützen, solltest du ein sicheres Betriebssystem verwenden. Vielleicht hast du schon von Linux gehört. Linux ist ein Betriebssystem, das kostenlos und Open Source ist. Das bedeutet, dass jeder den Quellcode sehen und ändern kann. Somit kann jeder sehen, was das Betriebssystem macht und es ist weniger wahrscheinlich, dass es Malware enthält. Zudem ist Linux datenschutzfreundlich, da es keine Daten über dich sammelt.
 
-Für Linux gibt es viele verschiedene Distributionen. Finde heraus, welche für dich am besten geeignet ist [hier](https://distrochooser.de/).
+Für Linux gibt es viele verschiedene Distributionen. Finde heraus, welche für dich am besten geeignet ist [hier](https://distrochooser.de/de).
