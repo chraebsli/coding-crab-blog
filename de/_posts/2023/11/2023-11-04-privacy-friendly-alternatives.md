@@ -1,6 +1,6 @@
 ---
 lang: de
-lang-ref: privacy-focused-alternatives
+lang-ref: privacy-friendly-alternatives
 title: Datenschutzfreundliche Alternativen
 description: Eine Liste mit datenschutzfreundlichen Alternativen.
 date: 2023-11-04 8:15 +0100

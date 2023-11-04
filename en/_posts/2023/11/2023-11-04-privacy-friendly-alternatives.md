@@ -1,8 +1,8 @@
 ---
 lang: en
-lang-ref: privacy-focused-alternatives
-title: Privacy focused alternatives
-description: A list of privacy focused alternatives.
+lang-ref: privacy-friendly-alternatives
+title: Privacy-friendly alternatives
+description: A list of privacy-friendly alternatives
 date: 2023-11-04 8:15 +0100
 categories:
   - privacy-security
@@ -12,7 +12,7 @@ tags:
   - security
 ---
 
-Here you can find a list of privacy focused alternatives to the usual services.
+Here you can find a list of privacy friendly alternatives to the usual services.
 
 ## My recommendations
 
@@ -40,7 +40,7 @@ These services offer different alternatives to the usual services:
 
 ## Categories
 
-Here you can find a list of privacy focused alternatives to the usual services.
+Here you can find a list of privacy friendly alternatives to the usual services.
 
 ### Calendar
 
