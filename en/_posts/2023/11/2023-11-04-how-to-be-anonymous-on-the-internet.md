@@ -3,12 +3,13 @@ lang: en
 lang-ref: how-to-be-anonymous-on-the-internet
 title: How to be anonymous on the internet
 description: Learn how to be anonymous on the internet
-date: 2023-04-10 16:15 +0100
+date: 2023-11-04 11:06 +0100
 categories:
-  - security
+  - privacy-security
 tags:
   - security
   - anonymity
+  - privacy
 ---
 
 Learn how to be anonymous on the internet.

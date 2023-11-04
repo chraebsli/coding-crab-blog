@@ -3,7 +3,7 @@ lang: de
 lang-ref: privacy-friendly-alternatives
 title: Datenschutzfreundliche Alternativen
 description: Eine Liste mit datenschutzfreundlichen Alternativen.
-date: 2023-11-04 8:15 +0100
+date: 2023-11-04 9:38 +0100
 categories:
   - privacy-security
 tags:
