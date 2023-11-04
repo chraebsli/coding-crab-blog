@@ -32,6 +32,7 @@ These are the services I use myself:
 
 These services offer different alternatives to the usual services:
 
+- [Proton](https://proton.me)
 - [Disroot](https://disroot.org/en)
 - [Framasoft](https://framasoft.org/en)
 - [De-google-ify Internet](https://degooglisons-internet.org/en)
@@ -45,6 +46,7 @@ Here you can find a list of privacy focused alternatives to the usual services.
 
 Alternatives to Google Calendar, Outlook Calendar, etc.
 
+- [ProtonCalendar](https://proton.me/calendar)
 - [Framagenda](https://framagenda.org)
 
 ### Cloud Drive
@@ -52,6 +54,7 @@ Alternatives to Google Calendar, Outlook Calendar, etc.
 Alternatives to Dropbox, Google Drive, OneDrive, iCloud, etc.
 
 - [pCloud](https://www.pcloud.com)
+- [ProtonDrive](https://proton.me/drive)
 - [Disroot Cloud](https://cloud.disroot.org) (hosted Nextcloud)
 - [Nextcloud](https://nextcloud.com)
 

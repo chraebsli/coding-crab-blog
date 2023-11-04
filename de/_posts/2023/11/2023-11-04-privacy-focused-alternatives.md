@@ -32,6 +32,7 @@ Folgende Dienste nutze ich selbst:
 
 Folgende Dienste bieten verschiedene Alternativen zu den üblichen Diensten an:
 
+- [Proton](https://proton.me)
 - [Disroot](https://disroot.org/de)
 - [Framasoft](https://framasoft.org/de)
 - [De-google-ify Internet](https://degooglisons-internet.org/de)
@@ -46,6 +47,7 @@ Hier findest du eine Liste mit datenschutzfreundlichen Alternativen zu den übli
 Alternativen zu Dropbox, Google Drive, OneDrive, iCloud, etc.
 
 - [pCloud](https://www.pcloud.com)
+- [ProtonDrive](https://proton.me/drive)
 - [Disroot Cloud](https://cloud.disroot.org) (hosted Nextcloud)
 - [Nextcloud](https://nextcloud.com)
 
@@ -77,6 +79,7 @@ Alternativen zu Google Forms, Microsoft Forms, etc.
 
 Alternativen zu Google Calendar, Outlook Calendar, etc.
 
+- [ProtonCalendar](https://proton.me/calendar)
 - [Framagenda](https://framagenda.org)
 
 ### Karten
