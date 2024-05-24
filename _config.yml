@@ -15,7 +15,7 @@
 title: &title Coding Crab Blog
 subtitle: &subtitle "Blogs about web development and other IT stuff"
 description: &description "Blogs about web development and other IT stuff"
-author_name: &author Nicholas Krebs
+name: &author Nicholas Krebs
 email: &email nicholas@nicholas-krebs.ch
 github_username: &github chraebsli
 repository: &repository chraebsli/coding-crab-blog
@@ -24,15 +24,31 @@ url: https://blog.chraebsli.dev
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes@4.23.0
+remote_theme: mmistakes/minimal-mistakes@4.26.1
 minimal_mistakes_skin: dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title_separator: "-"
 search: true
-include:
-  - _pages
-paginate: 10 # amount of posts to show
+breadcrumbs: true
+enable_copy_code_button: true
 timezone: Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 date_format: "%-d %b %Y %H:%M"
+include:
+  - _pages
+
+# Pagination
+paginate: 10
+#pagination:
+#  enabled: true
+#  collection: 'posts'
+#  per_page: 8
+#  permalink: '/page/:num/'  # Pages are index.html inside this folder (default)
+#  title: ':title - page :num'
+#  limit: 0
+#  sort_field: 'date'
+#  sort_reverse: true
+#  trail:
+#    before: 2
+#    after: 2
 
 # Structures
 paginate_path: /page:num/
