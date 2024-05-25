@@ -79,6 +79,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-archives
+  - jekyll-seo-tag
 
 # CSS / SASS
 sass:
