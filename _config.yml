@@ -34,6 +34,8 @@ timezone: Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time
 date_format: "%-d %b %Y %H:%M"
 include:
   - _pages
+exclude:
+  - _docs
 
 # Pagination
 paginate: 10
@@ -121,6 +123,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # docs
+  - scope:
+      path: "docs"
+      type: null
+    values:
+      layout: none
 
 # Comments
 comments:
