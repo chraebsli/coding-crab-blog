@@ -37,6 +37,7 @@ include:
 
 # Pagination
 paginate: 10
+paginate_path: /page:num/
 #pagination:
 #  enabled: true
 #  collection: 'posts'
@@ -51,7 +52,6 @@ paginate: 10
 #    after: 2
 
 # Structures
-paginate_path: /page:num/
 permalink: /:categories/:title/
 category_archive:
   type: jekyll-archives
