@@ -159,7 +159,7 @@ links:
   - website: &websiteURL "https://nicholas-krebs.ch"
   - github: &githubURL "https://github.com/chraebsli"
   - mastodon: &mastodonURL "https://techhub.social/@chraebsli"
-  - email: &emailURL "mailto:nicholas@nicholas-krebs.ch"
+  - email: &emailURL "mailto:contact@nicholas-krebs.ch"
 author:
   name: *author
   avatar: "/assets/images/bio-photo.jpg"
