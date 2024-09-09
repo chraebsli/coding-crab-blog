@@ -161,10 +161,10 @@ comments:
 # Analytics
 analytics:
   provider: custom
-  digistats:
-    tracking_id: ZwSg9rf6GA
   umami:
-    tracking_id: 7cd890e5-6ee0-45f2-b0a4-0d503793498d
+    script_url: https://umami.crabston.ch/script.js
+    tracking_id: d265149e-f477-4811-a3f4-b61ad96b889c
+    domains: blog.chraebsli.dev
 
 # Social Media Profiles
 links:
