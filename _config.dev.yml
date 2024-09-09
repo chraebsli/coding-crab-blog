@@ -3,7 +3,9 @@
 url: http://localhost:4000
 
 analytics:
-  provider: false
+  umami:
+    tracking_id: f1ab0ad8-c780-4abb-911d-aeb0614b9a0f
+    domains: "127.0.0.1,localhost"
 
 sass:
   style: expanded
