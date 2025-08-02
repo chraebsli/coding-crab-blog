@@ -168,7 +168,7 @@ analytics:
 
 # Social Media Profiles
 links:
-  - website: &websiteURL "https://nicholas-krebs.ch"
+  - website: &websiteURL "https://nicholas-krebs.ch/?utm_source=blog.chraebsli.dev&utm_medium=contact"
   - github: &githubURL "https://github.com/chraebsli"
   - mastodon: &mastodonURL "https://techhub.social/@chraebsli"
   - email: &emailURL "mailto:contact@nicholas-krebs.ch"
