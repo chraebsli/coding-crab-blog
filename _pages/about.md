@@ -10,3 +10,5 @@ I am a young IT enthusiast and web developer from Switzerland who is truly inter
 With this blog, I want to share my knowledge and experiences. I write about things that I have learned or found helpful. Besides, there will be some tutorials and general tips and tricks for non-IT people, which I find profitable for others to know.
 
 You are welcome to contact me if you have any questions or suggestions.
+
+For business inquiries, please visit the [Contact page at Crabston GmbH](https://crabston.ch/%C3%BCber/kontakt)
