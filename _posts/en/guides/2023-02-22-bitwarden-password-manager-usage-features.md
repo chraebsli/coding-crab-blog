@@ -12,6 +12,8 @@ tags:
 
 In this post, you will learn how to use the Bitwarden password manager in your daily life and what can you do with it.
 
+> For a more recent, detailed guide in German, visit [tutorials.crabston.ch/web-internet/bitwarden/funktionen-im-detail](https://tutorials.crabston.ch/web-internet/bitwarden/funktionen-im-detail)
+
 ## Save an item
 
 1. To save an item, you need to click on the `+` or the `New Item` button in the top right corner of the screen. This depends on the device you are using.

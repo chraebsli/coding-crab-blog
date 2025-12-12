@@ -12,6 +12,8 @@ tags:
 
 In this post, you will learn what Bitwarden is and how to install Bitwarden on your device.
 
+> Find a recent, more detailed guide in German at [tutorials.crabston.ch/web-internet/bitwarden/ueberblick](https://tutorials.crabston.ch/web-internet/bitwarden/ueberblick)
+
 ## What is Bitwarden?
 
 Bitwarden is a free and open source password manager to store your passwords and other sensitive information like credit card numbers in notes and files securely. It is available on the platforms Windows, macOS, Linux, Android, iOS, and the web. It is also available as a browser extension for Chrome, Firefox, Opera, and Edge.
