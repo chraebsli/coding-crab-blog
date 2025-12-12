@@ -169,6 +169,7 @@ analytics:
 # Social Media Profiles
 links:
   - website: &websiteURL "https://nicholas-krebs.ch/?utm_source=blog.chraebsli.dev&utm_medium=contact"
+  - business: &businessURL "https://crabston.ch/?utm_source=blog.chraebsli.dev&utm_medium=contact"
   - github: &githubURL "https://github.com/chraebsli"
   - mastodon: &mastodonURL "https://techhub.social/@chraebsli"
   - email: &emailURL "mailto:contact@nicholas-krebs.ch"
@@ -178,9 +179,12 @@ author:
   bio: "IT enthusiast & web developer from Switzerland"
   location: "Switzerland"
   links:
-    - label: "Website"
+    - label: "My Portfolio"
       icon: "fas fa-fw fa-link"
       url: *websiteURL
+    - label: "Crabston GmbH"
+      icon: "fas fa-fw fa-link"
+      url: *businessURL
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: *githubURL
@@ -198,9 +202,12 @@ social:
     - *emailURL
 footer:
   links:
-    - label: "Website"
+    - label: "My Portfolio"
       icon: "fas fa-fw fa-link"
       url: *websiteURL
+    - label: "Crabston GmbH"
+      icon: "fas fa-fw fa-link"
+      url: *businessURL
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: *emailURL
